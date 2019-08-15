@@ -1504,4 +1504,4 @@ bot.on('message', (message) => {
 
 // LOGIN TOKEN
 
-bot.login('')
+bot.login('NjExNjQ1Nzk3Nzk2MTUxMjk3.XVW4YA.kJsPCIaq847IMxXb52QVnkUTREE')
